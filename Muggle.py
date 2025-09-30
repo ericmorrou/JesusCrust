@@ -1,7 +1,7 @@
 import random
 
 secret_number = (random.randint(1, 20))
-intentos = 1
+intentos = 0
 numb = 0
 print(
 """
